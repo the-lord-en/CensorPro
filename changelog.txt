@@ -1,0 +1,4 @@
+v1.0.1
+- Ajout de la détection par modèle visuel
+- Liste des zones cliquable
+- Mise à jour automatique avec redémarrage
